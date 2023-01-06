@@ -7,7 +7,7 @@
         "ext-json": "*",
         "ext-gmp": "*",
         "bitwasp/bitcoin": "dev-master#8782bc6c470e342d4e0cb67eb036974f133b950b",
-        "iexbase/tron-api": "^v5.0 --ignore-platform-reqs",
+        "iexbase/tron-api": "^v5.0",
         "lessmore92/php-ripple-binary-codec": "^1.0",
         "lessmore92/php-ripple-keypairs": "^1.0",
         "spatie/data-transfer-object": "^3.9",
