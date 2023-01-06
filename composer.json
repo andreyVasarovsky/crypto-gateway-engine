@@ -12,7 +12,7 @@
         "lessmore92/php-ripple-keypairs": "^1.0",
         "spatie/data-transfer-object": ">=2.8",
         "web3p/ethereum-tx": "^0.4.3",
-        "laravel/framework": "^8.62",
+        "laravel/framework": ">=8.62",
         "bensampo/laravel-enum": "^3.4"
     },
     "require-dev": {
