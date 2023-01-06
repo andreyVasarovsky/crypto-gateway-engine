@@ -10,7 +10,7 @@
         "iexbase/tron-api": "^v5.0",
         "lessmore92/php-ripple-binary-codec": "^1.0",
         "lessmore92/php-ripple-keypairs": "^1.0",
-        "spatie/data-transfer-object": "^2.8",
+        "spatie/data-transfer-object": "^3.9",
         "web3p/ethereum-tx": "^0.4.3",
         "laravel/framework": ">=8",
         "bensampo/laravel-enum": "^6.2"
