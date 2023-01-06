@@ -1,5 +1,5 @@
 {
-    "name": "revalcoin/crypto-gateway-engine",
+    "name": "andrey-vasarovsky/crypto-gateway-engine",
     "description": "Crypto payment gateway for BTC, LTC, ETH, TRX, XRP",
     "require": {
         "php": "^7.4",
