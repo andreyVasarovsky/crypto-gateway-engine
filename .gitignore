@@ -1,0 +1,8 @@
+docker-compose.yml
+docker
+/vendor
+composer.lock
+.idea
+.phpunit.result.cache
+tests/Crypto/LiveTest.php
+Makefile
