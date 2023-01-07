@@ -21,6 +21,7 @@ use Illuminate\Support\ServiceProvider;
 
 class CryptoServiceProvider extends ServiceProvider
 {
+    //test
     public function register(): void
     {
         $this->app->bind(RequestLogger::class, static function (Application $app) {
